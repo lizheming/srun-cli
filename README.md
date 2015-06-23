@@ -1,6 +1,6 @@
 # srun-cli
 
-[![](https://img.shields.io/github/issues/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/issue)
+[![](https://img.shields.io/github/issues/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/issues)
 [![](https://img.shields.io/github/forks/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/network)
 [![](https://img.shields.io/github/stars/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/stargazers)
 
@@ -8,8 +8,12 @@
 
 ## 使用方法
 
-1. https://nodejs.org/ 安装 node.js 环境
-2. `npm install -g srun-cli`
+`npm install -g srun-cli`
+
+### 注意
+
+0. 使用之前需要确保有 nodejs 环境，如果没有请上 http://nodejs.org 下载安装
+1. 默认认证服务器配置为中国地质大学(北京)的服务器地址，如果是其他学校使用需要使用 `srun config set server [服务器地址]` 命令修改服务器地址。
 
 ## 界面预览
 
