@@ -9,5 +9,8 @@
 
 ## 界面预览
 
+![](https://raw.githubusercontent.com/lizheming/srun-cli/master/example/screenshot.png)
+
 ## License
 
+[GPL](https://github.com/lizheming/srun-cli/blob/master/LICENSE)
