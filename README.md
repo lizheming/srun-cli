@@ -24,6 +24,10 @@
 5. 查看配置: `srun config ls`
 6. 更多相关命令请查看 `srun help`
 
+## 如何升级版本
+
+`npm update -g srun-cli`
+
 ## 界面预览
 
 ![](https://raw.githubusercontent.com/lizheming/srun-cli/master/example/screenshot.png)
