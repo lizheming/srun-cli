@@ -1,0 +1,33 @@
+{
+  "name": "srun-cli",
+  "version": "0.0.1",
+  "description": "srun cli client",
+  "main": "./bin/srun.js",
+  "bin": {
+    "srun": "./bin/srun.js"
+  },
+  "scripts": {
+    "test": "srun --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizheming/srun-cli.git"
+  },
+  "keywords": [
+    "srun",
+    "login",
+    "cli",
+    "logout",
+    "network"
+  ],
+  "author": "lizheming <i@imnerd.org>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/lizheming/srun-cli/issues"
+  },
+  "homepage": "https://github.com/lizheming/srun-cli#readme",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "prompt": "^0.2.14"
+  }
+}
