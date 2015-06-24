@@ -7,7 +7,7 @@ program
 	.option("-f, --force", "force logout account login in the current network")
 	.parse(process.argv);
 
-if( !program.hasOwnProperty("force") ||
+if( !program.hasOwnProperty("force") &&
 	(!program.hasOwnProperty("username") || !program.hasOwnProperty("password"))
 ){
 	return program.help();

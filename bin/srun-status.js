@@ -1,1 +1,1 @@
-console.log("Building...");
+require("../lib/srun").status();
