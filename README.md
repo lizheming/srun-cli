@@ -1,8 +1,11 @@
 # srun-cli
-
+[![](https://badge.fury.io/js/srun.png)](http://npmjs.com/package/srun-cli)
 [![](https://img.shields.io/github/issues/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/issues)
 [![](https://img.shields.io/github/forks/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/network)
 [![](https://img.shields.io/github/stars/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/stargazers)
+[![Dependency Status](https://david-dm.org/lizheming/srun-cli.svg)](https://david-dm.org/lizheming/srun-cli)
+
+[![](https://nodei.co/npm/srun-cli.png?downloads=true&stars=true)](http://npmjs.com/package/srun-cli)
 
 深澜命令行版客户端
 
