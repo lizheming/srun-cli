@@ -1,5 +1,5 @@
 # srun-cli
-[![](https://badge.fury.io/js/srun.png)](http://npmjs.com/package/srun-cli)
+[![](https://badge.fury.io/js/srun-cli.png)](http://npmjs.com/package/srun-cli)
 [![](https://img.shields.io/github/issues/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/issues)
 [![](https://img.shields.io/github/forks/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/network)
 [![](https://img.shields.io/github/stars/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/stargazers)
