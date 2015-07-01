@@ -4,7 +4,8 @@
   "description": "srun cli client",
   "main": "./bin/srun",
   "bin": {
-    "srun": "./bin/srun"
+    "srun": "./bin/srun",
+    "srun config": "./bin/srun-config"
   },
   "scripts": {
     "test": "srun --help"
