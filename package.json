@@ -2,9 +2,9 @@
   "name": "srun-cli",
   "version": "0.0.9",
   "description": "srun cli client",
-  "main": "./bin/srun.js",
+  "main": "./bin/srun",
   "bin": {
-    "srun": "./bin/srun.js"
+    "srun": "./bin/srun"
   },
   "scripts": {
     "test": "srun --help"
