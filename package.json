@@ -1,6 +1,6 @@
 {
   "name": "srun-cli",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "srun cli client",
   "main": "./bin/srun",
   "bin": {
