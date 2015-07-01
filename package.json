@@ -5,7 +5,15 @@
   "main": "./bin/srun",
   "bin": {
     "srun": "./bin/srun",
-    "srun config": "./bin/srun-config"
+    "srun config": "./bin/srun-config",
+    "srun config ls": "./bin/srun-config-ls",
+    "srun config get": "./bin/srun-config-get",
+    "srun config set": "./bin/srun-config-set",
+    "srun config remove": "./bin/srun-config-remove",
+    "srun login": "./bin/srun-login",
+    "srun logout": "./bin/srun-logout",
+    "srun status": "./bin/srun-status",
+    "srun who": "./bin/srun-who"
   },
   "scripts": {
     "test": "srun --help"
