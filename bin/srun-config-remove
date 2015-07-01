@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var program = require("commander"),
     fs = require("fs"),
     path = require("path");

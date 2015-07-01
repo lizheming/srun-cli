@@ -1,2 +1,3 @@
+#!/usr/bin/env node
 var srun = require("../lib/srun");
 srun.who();
