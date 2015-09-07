@@ -34,6 +34,7 @@
 ## 界面预览
 
 ![](https://raw.githubusercontent.com/lizheming/srun-cli/master/example/screenshot.png)
+![](https://raw.githubusercontent.com/lizheming/srun-cli/master/example/screenshot_Mac.png)
 
 ## License
 
