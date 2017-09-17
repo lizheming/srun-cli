@@ -1,4 +1,6 @@
 # srun-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lizheming/srun-cli.svg)](https://greenkeeper.io/)
 [![](https://badge.fury.io/js/srun-cli.png)](http://npmjs.com/package/srun-cli)
 [![](https://img.shields.io/github/issues/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/issues)
 [![](https://img.shields.io/github/forks/lizheming/srun-cli.svg)](https://github.com/lizheming/srun-cli/network)
